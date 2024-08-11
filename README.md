@@ -5,12 +5,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakith Umagiliya</h1>
 
 - 🔭 I’m currently Study on **University of Westminster**
-
+- I enjoy building and contributing to projects that solve real-world problems.
 - 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **sakiththewmika71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
