@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Well, hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakith Umagiliya</h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -13,7 +14,7 @@
 - 👀 I enjoy building and contributing to projects that solve real-world problems.
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Java**
-- ⚡ Fun fact: I love to play cricket and swimming.
+- ⚡ Fun fact: I love to play cricket and swim.
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -54,4 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight"/>
 </p>
 
-
+  
