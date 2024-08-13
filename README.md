@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight"/>
+  <a href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight"/></a>
 </p>
 
   
