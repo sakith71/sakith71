@@ -5,6 +5,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Well, hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sakith Umagiliya</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakith71&label=Profile%20views&color=0e75b6&style=flat" alt="sakith71" /> </p>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -47,12 +49,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api?username=sakith71&show_icons=true&theme=tokyonight"/></a>
-  <a href="https://github.com/sakith71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakith71&theme=tokyonight"/></a>
+  <a width="50%" href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api?username=sakith71&show_icons=true&theme=tokyonight"/></a>
+  <a width="50%" href="https://github.com/sakith71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakith71&theme=tokyonight"/></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight"/></a>
 </p>
+
 
   
