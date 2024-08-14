@@ -18,8 +18,8 @@
 - 💬 Ask me about **Java**
 - ⚡ Fun fact: I love to play cricket and swim.
 
-<br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://twitter.com/sakiththewmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakiththewmika" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sakith-umagiliya-8b927a2bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakith umagiliya" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Languages and Tools 👨🏻‍💻</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -54,7 +54,6 @@
   
   <a href="https://github.com/sakith71"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakith71&theme=tokyonight&show_icons=true&count_private=true" /></a>
   
-  <br></br>
   
   <a href="https://github.com/sakith71"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakith71&theme=tokyonight&hide_border=true" /></a>
 
