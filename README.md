@@ -48,14 +48,26 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a width="50%" href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api?username=sakith71&show_icons=true&theme=tokyonight"/></a>
-  <a width="50%" href="https://github.com/sakith71"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakith71&theme=tokyonight"/></a>
-</p>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <a href="https://github.com/sakith71"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakith71&theme=tokyonight&show_icons=true&count_private=true" /></a>
+  
+  <br></br>
+  
+  <a href="https://github.com/sakith71"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sakith71&theme=tokyonight&hide_border=true" /></a>
 
-<p align="center">
-  <a href="https://github.com/sakith71"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight"/></a>
-</p>
+</td>
+
+<td width="50%" align="center">
+
+  <a href="https://github.com/sakith71">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></a>
+  
+  </td>
+</tr>
+</table>
 
 
   
