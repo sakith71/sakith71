@@ -33,7 +33,7 @@
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Languages and Tools 👨🏻‍💻</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,html,css,js,ts,nodejs,react,git,mongodb,mysql,postman,docker,figma,firebase,github,vscode,discord,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,html,css,js,ts,nodejs,react,flutter,mongodb,mysql,postman,docker,figma,firebase,git,github,vscode,discord,&perline=14" />
   </a>
 </p>
 <br>
