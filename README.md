@@ -11,7 +11,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-
 - 📚 I’m currently Study on **University of Westminster**
 - 👀 I enjoy building and contributing to projects that solve real-world problems.
 - 🌱 I’m currently learning **Java**
