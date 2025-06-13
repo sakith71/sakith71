@@ -51,10 +51,8 @@
 </td>
 
 <td width="50%" align="center">
-
   <a href="https://github.com/sakith71">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sakith71&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></a>
-  
   </td>
 </tr>
 </table>
